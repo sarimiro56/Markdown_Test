@@ -7,3 +7,5 @@ https://ap-northeast-2.console.aws.amazon.com/console/home?region=ap-northeast-2
 
 강의 교안:
 https://antitifragile.notion.site/AWS-Practitioner-6e3e9143d30b4d0182cbebd953a68dc1
+
+1년 뒤 유료로 전환되는 계정이니 주의할 것.
