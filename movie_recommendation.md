@@ -1,4 +1,4 @@
-![image](https://github.com/sarimiro56/Markdown_Test/assets/128454837/be387a15-efe5-48d6-a3c5-1c3908eff537)# Warming!
+# Warming!
 - ### ⑮세 이상 시청 가능한 작품입니다.
 - ### Trigger Warning이 존재합니다. 시청 전 확인 바랍니다.
     - 링크: https://www.doesthedogdie.com/media/10812
